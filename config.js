@@ -106,7 +106,7 @@ const CONFIG = {
         link: 'https://news.google.com/',
       },
       {
-        name: 'HN',
+        name: 'Hacker',
         link: 'https://news.ycombinator.com/news',
       },
       {
