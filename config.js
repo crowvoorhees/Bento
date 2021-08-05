@@ -11,23 +11,22 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: '',
   imageBackground: false,
   openInNewTab: true,
 
   // Greetings
   greetingMorning: 'Good morning!',
-  greetingAfternoon: 'Good afternoon,',
-  greetingEvening: 'Good evening,',
+  greetingAfternoon: 'Good afternoon!',
+  greetingEvening: 'Good evening!',
   greetingNight: 'Go to Sleep!',
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456',
+  weatherKey: 'd27048c0198f34c4430ff7802756f090',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C',
-  weatherLatitude: '37.774929',
-  weatherLongitude: '-122.419418',
-  
+  weatherLatitude: '28.538336',
+  weatherLongitude: '-81.379234',
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
   // │  ├─┤├┬┘ ││└─┐
@@ -37,39 +36,39 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/',
+      name: 'Mail',
+      icon: 'mail',
+      link: 'https://mail.google.com/',
     },
     {
       id: '2',
-      name: 'Mail',
-      icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      name: 'Calendar',
+      icon: 'calendar',
+      link: 'http://calendar.google.com/calendar/r',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Keep',
+      icon: 'list',
+      link: 'https://keep.google.com/',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Twitter',
+      icon: 'twitter',
+      link: 'https://tweetdeck.twitter.com',
     },
     {
       id: '5',
       name: 'Reddit',
       icon: 'bookmark',
-      link: 'https://reddit.com',
+      link: 'https://www.reddit.com/',
     },
     {
       id: '6',
-      name: 'Odysee',
-      icon: 'youtube',
-      link: 'https://odysee.com/',
+      name: 'The Old Reader',
+      icon: 'rss',
+      link: 'http://theoldreader.com/',
     },
   ],
 
