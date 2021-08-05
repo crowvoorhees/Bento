@@ -77,45 +77,45 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'music',
+  firstListIcon: 'airplay',
   secondListIcon: 'coffee',
 
   // Links
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'YouTube',
+        link: 'https://www.youtube.com',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Twitch',
+        link: 'https://www.twitch.tv/directory',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Spotify',
+        link: 'https://play.spotify.com/browse',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Discord',
+        link: 'https://discordapp.com/',
       },
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'News',
+        link: 'https://news.google.com/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'HN',
+        link: 'https://news.ycombinator.com/news',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Facebook',
+        link: 'https://www.facebook.com/',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Mastodon',
+        link: 'https://fosstodon.org/',
       },
     ],
   },
