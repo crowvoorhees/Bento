@@ -47,7 +47,7 @@ const CONFIG = {
       link: 'http://calendar.google.com/calendar/r',
     },
     {
-      id: '3',
+      id: '5',
       name: 'Keep',
       icon: 'list',
       link: 'https://keep.google.com/',
@@ -59,7 +59,7 @@ const CONFIG = {
       link: 'https://tweetdeck.twitter.com',
     },
     {
-      id: '5',
+      id: '4',
       name: 'Reddit',
       icon: 'bookmark',
       link: 'https://www.reddit.com/',
