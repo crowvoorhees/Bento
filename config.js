@@ -114,8 +114,8 @@ const CONFIG = {
         link: 'https://www.facebook.com/',
       },
       {
-        name: 'Mastodon',
-        link: 'https://fosstodon.org/',
+        name: 'Monkeytype',
+        link: 'https://monkeytype.com',
       },
     ],
   },
