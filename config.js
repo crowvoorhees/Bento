@@ -48,9 +48,9 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Keep',
-      icon: 'list',
-      link: 'https://keep.google.com/',
+      name: 'Voice',
+      icon: 'message-square',
+      link: 'https://voice.google.com/u/0/messages#inbox',
     },
     {
       id: '3',
@@ -92,12 +92,12 @@ const CONFIG = {
         link: 'https://www.twitch.tv/directory',
       },
       {
-        name: 'Spotify',
-        link: 'https://play.spotify.com/browse',
+        name: 'PlutoTV',
+        link: 'http://pluto.tv/watch/',
       },
       {
-        name: 'Discord',
-        link: 'https://discordapp.com/',
+        name: 'Spotify',
+        link: 'https://play.spotify.com/browse',
       },
     ],
     secondList: [
@@ -106,8 +106,8 @@ const CONFIG = {
         link: 'https://news.google.com/',
       },
       {
-        name: 'Hacker',
-        link: 'https://news.ycombinator.com/news',
+        name: 'GitHub',
+        link: 'https://github.com/explore',
       },
       {
         name: 'Facebook',
