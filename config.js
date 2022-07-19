@@ -44,13 +44,13 @@ const CONFIG = {
       id: '2',
       name: 'Calendar',
       icon: 'calendar',
-      link: 'http://calendar.google.com/calendar/r',
+      link: 'https://calendar.google.com/calendar/r',
     },
     {
       id: '5',
-      name: 'Voice',
-      icon: 'message-square',
-      link: 'https://voice.google.com/u/0/messages#inbox',
+      name: 'Drive',
+      icon: 'folder',
+      link: 'https://drive.google.com/drive/',
     },
     {
       id: '3',
@@ -68,7 +68,7 @@ const CONFIG = {
       id: '6',
       name: 'The Old Reader',
       icon: 'rss',
-      link: 'http://theoldreader.com/',
+      link: 'https://theoldreader.com/',
     },
   ],
 
@@ -92,8 +92,12 @@ const CONFIG = {
         link: 'https://www.twitch.tv/directory',
       },
       {
-        name: 'PlutoTV',
-        link: 'http://pluto.tv/watch/',
+        name: 'Pluto',
+        link: 'https://pluto.tv/watch/',
+      },
+      {
+        name: 'Spectrum',
+        link: 'https://watch.spectrum.net',
       },
       {
         name: 'Spotify',
@@ -106,6 +110,10 @@ const CONFIG = {
         link: 'https://news.google.com/',
       },
       {
+        name: 'Voice',
+        link: 'https://voice.google.com/u/0/messages#inbox',
+      },
+      {
         name: 'GitHub',
         link: 'https://github.com/explore',
       },
@@ -114,8 +122,8 @@ const CONFIG = {
         link: 'https://www.facebook.com/',
       },
       {
-        name: 'Monkeytype',
-        link: 'https://monkeytype.com',
+        name: 'Messenger',
+        link: 'https://www.facebook.com/messages',
       },
     ],
   },
