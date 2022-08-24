@@ -96,10 +96,6 @@ const CONFIG = {
         link: 'https://pluto.tv/watch/',
       },
       {
-        name: 'Spectrum',
-        link: 'https://watch.spectrum.net',
-      },
-      {
         name: 'Spotify',
         link: 'https://play.spotify.com/browse',
       },
@@ -120,10 +116,6 @@ const CONFIG = {
       {
         name: 'Facebook',
         link: 'https://www.facebook.com/',
-      },
-      {
-        name: 'Messenger',
-        link: 'https://www.facebook.com/messages',
       },
     ],
   },
