@@ -102,20 +102,20 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'News',
-        link: 'https://news.google.com/',
-      },
-      {
-        name: 'Voice',
-        link: 'https://voice.google.com/u/0/messages#inbox',
-      },
-      {
-        name: 'GitHub',
-        link: 'https://github.com/explore',
+        name: 'Mastodon',
+        link: 'https://social.vivaldi.net/home',
       },
       {
         name: 'Facebook',
         link: 'https://www.facebook.com/',
+      },
+            {
+        name: 'Steam',
+        link: 'https://store.steampowered.com',
+      },
+      {
+        name: 'eBay',
+        link: 'https://ebay.com',
       },
     ],
   },
