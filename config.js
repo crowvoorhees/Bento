@@ -107,7 +107,7 @@ const CONFIG = {
       },
       {
         name: 'Lemmy',
-        link: 'https://lemmy.zip',
+        link: 'https://m.lemmy.zip',
       },
       {
         name: 'Release',
