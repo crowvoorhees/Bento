@@ -54,9 +54,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Twitter',
+      name: 'Bluesky',
       icon: 'twitter',
-      link: 'https://tweetdeck.twitter.com',
+      link: 'https://bsky.app/',
     },
     {
       id: '4',
@@ -96,8 +96,8 @@ const CONFIG = {
         link: 'https://pluto.tv/watch/',
       },
       {
-        name: 'Spotify',
-        link: 'https://play.spotify.com/browse',
+        name: 'Spectrum',
+        link: 'https://watch.spectrum.net',
       },
     ],
     secondList: [
@@ -106,16 +106,16 @@ const CONFIG = {
         link: 'https://social.vivaldi.net/home',
       },
       {
-        name: 'Facebook',
-        link: 'https://www.facebook.com/',
-      },
-            {
-        name: 'Steam',
-        link: 'https://store.steampowered.com',
+        name: 'Lemmy',
+        link: 'https://lemmy.zip',
       },
       {
-        name: 'eBay',
-        link: 'https://ebay.com',
+        name: 'Release',
+        link: 'https://www.release.com',
+      },
+            {
+        name: 'GoG',
+        link: 'https://gog.com',
       },
     ],
   },
